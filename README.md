@@ -9,7 +9,7 @@ https://arxiv.org/abs/1703.01253
 # Original Keras implementation
 https://gist.github.com/shamatar/55b804cf62b8ee0fa23efdb3ea5a4701  
 (This repo's implemetation is almost same as the above gist script.  
-I fixed the code to support `return_sequence` parameter for visualizing hidden states.)
+I fixed the code to support `return_sequences` parameter for visualizing hidden states.)
 
 # Note
 Current implementation is heavily under development.  
