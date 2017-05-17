@@ -22,6 +22,6 @@ Please fix the `save_root_dir` variable and `if __name__ == '__main__'` section 
 
 ## commands
 ```bash
-python training.py  # train RWA (or LSTM. See and fix `__main__` section to switch the model)
+python train.py  # train RWA (or LSTM. See and fix `__main__` section to switch the model)
 python plotting.py  # plot internal states of RWA. (Before execution, check your trained model filename and fix the variables in this file!)
 ```
